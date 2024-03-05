@@ -1,13 +1,13 @@
 # Javascript Calculator
 
 ### Install
-     npm install calculator
-     cd calculator
+     npm install javascript_calculator
+     cd javascript_calculator
      npm start
 
 or
 
-    npm install -g calculator
+    npm install -g javascript_calculator
     node-calc
 
 ### API
