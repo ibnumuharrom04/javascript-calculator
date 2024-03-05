@@ -1,5 +1,5 @@
 {
-  "name": "javascript_calculator",
+  "name": "javascript_calculator_amount",
   "version": "0.1.0",
   "description": "simple cli calculator",
   "main": "calculator.js",
